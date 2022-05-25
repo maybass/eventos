@@ -4,6 +4,12 @@
   padding: 0;
 }
 
+html {
+	font-size: 62.5%;
+}
+
+/* si hubiese img display: block, width: 100% */
+
 .box {
   width: 100px;
   height: 100px;
